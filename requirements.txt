@@ -11,8 +11,8 @@ accelerator
 opencv-python
 geopy
 twilio
-gunicorn
-uvicorn
+gunicorn>=20.0.4
+uvicorn>=0.14.0
 
 # Machine Learning
 torch==2.1.0
