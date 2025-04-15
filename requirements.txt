@@ -19,10 +19,7 @@ transformers==4.36.0
 # Speech recognition and synthesis
 SpeechRecognition==3.10.0
 pydub==0.25.1
-pyaudio==0.2.13
 gTTS==2.3.2
-pocketsphinx==0.1.15
-pyaudio==0.2.13
 
 # Image processing
 Pillow==10.1.0
